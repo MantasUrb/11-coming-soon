@@ -8,9 +8,9 @@ _26th group demo project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for real-life students! Thank you for your cooperation!
 
-Site published at https://mantasurb.github.io/4-signup/
+Site published at https://mantasurb.github.io/11-coming-soon/
 
-Design: [Coming Soon](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
+Design: [Coming Soon](https://cdn.discordapp.com/attachments/648536139677958156/651479019476221953/coming-soon-wide.png)
 
 ## Project features
 
