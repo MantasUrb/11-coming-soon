@@ -14,8 +14,9 @@ Design: [Coming Soon](https://cdn.discordapp.com/attachments/648536139677958156/
 
 ## Project features
 
-- HTML forms
-- CSS animation
+- Responsive design
+- CSS animations
+- Repetitive content is generated/rendered
 
 ## Authors
 
